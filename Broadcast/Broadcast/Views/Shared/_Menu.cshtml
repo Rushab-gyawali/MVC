@@ -1,0 +1,42 @@
+﻿@model List<Broadcast.Shared.Common.PermissionCommon>
+
+
+<div class="navbar-inner">
+    <!-- Collapse -->
+    <!-- Nav items -->
+    <ul class="navbar-nav">
+        @{
+            var parentMenu = Model.Select(x => x.ParentMenu).Distinct().ToList();
+        }
+        @foreach (var items in parentMenu)
+        {
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#@items" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="@items">
+                    <i class="@Model.Where(x => x.ParentMenu == items).Select(x => x.Icon).FirstOrDefault()"></i>
+                    <span class="nav-link-text">@items</span>
+                </a>
+                <a class="has-arrow ai-icon" aria-expanded="false">
+                    <i class="flaticon-381-networking"></i>
+                </a>
+                @{
+                    var menulist = Model.Where(x => x.ParentMenu == items).Select(x => new { x.Menu, x.URL }).Distinct();
+                }
+                @foreach (var data in menulist)
+                {
+                    <div class="collapse" id="@items">
+                        <ul class="nav nav-sm flex-column">
+
+                            <li class="nav-item">
+                                <a href="@data.URL" class="nav-link">@data.Menu</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                }
+            </li>
+        }
+    </ul>
+</div>
+
+
+

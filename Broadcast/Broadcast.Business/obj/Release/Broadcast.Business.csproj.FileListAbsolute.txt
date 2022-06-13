@@ -1,0 +1,54 @@
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Business.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Business.pdb
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Repository.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Shared.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.Razor.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Repository.pdb
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Shared.pdb
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.xml
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.Razor.xml
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csproj.AssemblyReference.cache
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csproj.CoreCompileInputs.cache
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csproj.CopyComplete
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.pdb
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Business.dll
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Business.pdb
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Repository.dll
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Shared.dll
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.dll
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.Razor.dll
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Repository.pdb
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Shared.pdb
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.xml
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.Razor.xml
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csproj.CopyComplete
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.dll
+C:\Users\dell\Desktop\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.pdb
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Business.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Business.pdb
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Repository.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Shared.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.Razor.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.Deployment.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Repository.pdb
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\Broadcast.Shared.pdb
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.xml
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.Razor.xml
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\bin\Release\System.Web.WebPages.Deployment.xml
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csproj.AssemblyReference.cache
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csproj.CoreCompileInputs.cache
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.csproj.CopyComplete
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Business\obj\Release\Broadcast.Business.pdb

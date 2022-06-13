@@ -1,0 +1,36 @@
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\Broadcast.Shared.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\Broadcast.Shared.pdb
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.csproj.CoreCompileInputs.cache
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.pdb
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.Helpers.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.Razor.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.Helpers.xml
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.Razor.xml
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.xml
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.csproj.CopyComplete
+D:\Semester 5\Product Development\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.csproj.AssemblyReference.cache
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\Broadcast.Shared.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\Broadcast.Shared.pdb
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.Helpers.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.Razor.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.Helpers.xml
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.Razor.xml
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.xml
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.csproj.AssemblyReference.cache
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.csproj.CoreCompileInputs.cache
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.csproj.CopyComplete
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.dll
+E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Shared\obj\Debug\Broadcast.Shared.pdb
