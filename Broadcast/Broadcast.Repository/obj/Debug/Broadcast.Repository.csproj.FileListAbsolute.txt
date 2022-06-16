@@ -46,3 +46,19 @@ E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Repository\bin\Debug\System.
 E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Repository\bin\Debug\System.Web.Razor.xml
 E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\Projects\Fun Olympic\Project\Broadcast\Broadcast.Repository\obj\Debug\Broadcast.Repository.csproj.CopyComplete
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\Broadcast.Repository.dll
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\Broadcast.Repository.pdb
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\Broadcast.Shared.dll
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\System.Web.WebPages.dll
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\System.Web.Razor.dll
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\Broadcast.Shared.pdb
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\System.Web.WebPages.xml
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\System.Web.Razor.xml
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\obj\Debug\Broadcast.Repository.csproj.AssemblyReference.cache
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\obj\Debug\Broadcast.Repository.csproj.CoreCompileInputs.cache
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\obj\Debug\Broadcast.Repository.csproj.CopyComplete
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\obj\Debug\Broadcast.Repository.dll
+E:\Projects\Template\MVC\Broadcast\Broadcast.Repository\obj\Debug\Broadcast.Repository.pdb

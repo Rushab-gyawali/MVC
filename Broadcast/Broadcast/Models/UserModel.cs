@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Broadcast.Models
+namespace MVC.Models
 {
     public class UserModel
     {

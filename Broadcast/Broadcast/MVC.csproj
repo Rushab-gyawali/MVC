@@ -394,17 +394,17 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Broadcast.Business\Broadcast.Business.csproj">
+    <ProjectReference Include="..\Broadcast.Business\MVC.Business.csproj">
       <Project>{9312794b-b1bb-49de-bbe1-0e33d04eee5a}</Project>
-      <Name>Broadcast.Business</Name>
+      <Name>MVC.Business</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Broadcast.Repository\Broadcast.Repository.csproj">
+    <ProjectReference Include="..\Broadcast.Repository\MVC.Repository.csproj">
       <Project>{b8af5804-4d7c-44dd-bfb0-fbf1ffccebdf}</Project>
-      <Name>Broadcast.Repository</Name>
+      <Name>MVC.Repository</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Broadcast.Shared\Broadcast.Shared.csproj">
+    <ProjectReference Include="..\Broadcast.Shared\MVC.Shared.csproj">
       <Project>{5470eade-908c-49fb-a476-22fbfeb631e0}</Project>
-      <Name>Broadcast.Shared</Name>
+      <Name>MVC.Shared</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

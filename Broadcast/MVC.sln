@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broadcast", "Broadcast\Broadcast.csproj", "{A6E4B4D8-14A9-4122-9E5C-3F3F7147DE26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "Broadcast\MVC.csproj", "{A6E4B4D8-14A9-4122-9E5C-3F3F7147DE26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broadcast.Business", "Broadcast.Business\Broadcast.Business.csproj", "{9312794B-B1BB-49DE-BBE1-0E33D04EEE5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Business", "Broadcast.Business\MVC.Business.csproj", "{9312794B-B1BB-49DE-BBE1-0E33D04EEE5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broadcast.Repository", "Broadcast.Repository\Broadcast.Repository.csproj", "{B8AF5804-4D7C-44DD-BFB0-FBF1FFCCEBDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Repository", "Broadcast.Repository\MVC.Repository.csproj", "{B8AF5804-4D7C-44DD-BFB0-FBF1FFCCEBDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broadcast.Shared", "Broadcast.Shared\Broadcast.Shared.csproj", "{5470EADE-908C-49FB-A476-22FBFEB631E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Shared", "Broadcast.Shared\MVC.Shared.csproj", "{5470EADE-908C-49FB-A476-22FBFEB631E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

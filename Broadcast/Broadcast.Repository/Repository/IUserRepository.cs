@@ -1,11 +1,12 @@
-﻿using Broadcast.Shared.Common;
+﻿using MVC.Shared.Common;
+using MVC.Shared.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Broadcast.Repository.Repository
+namespace MVC.Repository.Repository
 {
     public interface IUserRepository
     {

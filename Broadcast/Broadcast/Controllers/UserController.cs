@@ -1,7 +1,8 @@
-﻿using Broadcast.Business.Business;
-using Broadcast.Models;
-using Broadcast.Shared.Common;
-using Broadcast.Web.Library;
+﻿using MVC.Business.Business;
+using MVC.Shared.Common;
+using MVC.Models;
+using MVC.Shared.Common;
+using MVC.Web.Library;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Broadcast.Controllers
+namespace MVC.Controllers
 {
     public class UserController : Controller
     {

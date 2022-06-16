@@ -1,11 +1,12 @@
-﻿using Broadcast.Shared.Common;
+﻿using MVC.Shared.Common;
+using MVC.Shared.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Broadcast.Business.Business
+namespace MVC.Business.Business
 {
     public interface IUserBusiness
     {

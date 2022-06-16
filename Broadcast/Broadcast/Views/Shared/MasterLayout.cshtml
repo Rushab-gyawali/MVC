@@ -49,7 +49,7 @@
     </div>
     <!-- preloader area end -->
     <!-- main wrapper start -->
-    @if (Broadcast.Web.Library.StaticData.GetUserType() == "Y")
+    @if (MVC.Web.Library.StaticData.GetUserType() == "Y")
     {
 
 <div class="horizontal-main-wrapper">
@@ -86,7 +86,7 @@
                     <div class="clearfix d-md-inline-block d-block">
                         <div class="user-profile m-0">
                             <img class="avatar user-thumb" src="~/Content/assets/images/author/avatar.png" alt="avatar">
-                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">@Broadcast.Web.Library.StaticData.GetUser() <i class="fa fa-angle-down"></i></h4>
+                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">@MVC.Web.Library.StaticData.GetUser() <i class="fa fa-angle-down"></i></h4>
                             <div class="dropdown-menu">
                                 <a class="dropdown-item" href="/Home/LogOff">Log Out</a>
                             </div>
@@ -205,7 +205,7 @@
                                     <div class="clearfix d-md-inline-block d-block">
                                         <div class="user-profile m-0">
                                             <img class="avatar user-thumb" src="~/Content/assets/images/author/avatar.png" alt="avatar">
-                                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">@Broadcast.Web.Library.StaticData.GetUser() <i class="fa fa-angle-down"></i></h4>
+                                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">@MVC.Web.Library.StaticData.GetUser() <i class="fa fa-angle-down"></i></h4>
                                             <div class="dropdown-menu">
                                                 @*<a class="dropdown-item" href="/Home/ChangePassword">Change Password</a>*@
                                                 <a class="dropdown-item" href="/Home/LogOff">Log Out</a>

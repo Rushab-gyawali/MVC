@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Broadcast.Shared.Common
-{
+namespace MVC.Shared.Common
+{ 
     public class DbResponse
     {
         public int ErrorCode { get; set; }

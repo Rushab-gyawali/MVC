@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Broadcast.Business.Business.Common 
+namespace MVC.Business.Business.Common 
 {
     public interface ICommonBusiness
     {

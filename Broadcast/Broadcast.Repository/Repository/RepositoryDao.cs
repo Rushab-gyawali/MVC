@@ -4,10 +4,11 @@ using System.Text;
 using System.Reflection;
 using System.Collections.Generic;
 using System.IO;
-using Broadcast.Shared.Common;
+using MVC.Shared.Common;
 using System.Configuration;
+using MVC.Shared.Common;
 
-namespace Broadcast.Repository.Repository
+namespace MVC.Repository.Repository
 {
     public class RepositoryDao
     {

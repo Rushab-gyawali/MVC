@@ -1,4 +1,4 @@
-﻿using Broadcast.Shared.Common;
+﻿using MVC.Shared.Common;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -9,7 +9,7 @@ using System.Reflection;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Broadcast.Web.Library
+namespace MVC.Web.Library
 {
     //[SessionExpiryFilter]
     public class StaticData

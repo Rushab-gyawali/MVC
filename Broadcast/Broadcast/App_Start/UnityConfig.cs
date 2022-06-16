@@ -2,7 +2,7 @@ using System;
 
 using Unity;
 
-namespace Broadcast
+namespace MVC
 {
     /// <summary>
     /// Specifies the Unity configuration for the main container.

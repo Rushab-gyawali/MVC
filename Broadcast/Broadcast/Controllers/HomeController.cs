@@ -1,18 +1,12 @@
-﻿using Broadcast.Business.Business;
-using Broadcast.Models;
-using Broadcast.Shared.Common;
-using Broadcast.Web.Library;
+﻿using MVC.Models;
+using MVC.Web.Library;
 using CaptchaMvc.HtmlHelpers;
 using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Linq;
-using System.Net;
-using System.Net.Mail;
-using System.Web;
 using System.Web.Mvc;
+using MVC.Business.Business;
+using MVC.Shared.Common;
 
-namespace Broadcast.Controllers
+namespace MVC.Controllers
 {
     public class HomeController : Controller
     {

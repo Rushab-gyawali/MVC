@@ -292,3 +292,7 @@ E:\Projects\Fun Olympic\Project\Broadcast\Broadcast\obj\Debug\Broadcast.csproj.C
 E:\Projects\Fun Olympic\Project\Broadcast\Broadcast\bin\CaptchaMvc.dll
 E:\Projects\Fun Olympic\Project\Broadcast\Broadcast\bin\CaptchaMvc.pdb
 E:\Projects\Fun Olympic\Project\Broadcast\Broadcast\bin\CaptchaMvc.xml
+E:\Projects\Template\MVC\Broadcast\Broadcast\obj\Debug\Broadcast.csproj.AssemblyReference.cache
+E:\Projects\Template\MVC\Broadcast\Broadcast\obj\Debug\Broadcast.csproj.CoreCompileInputs.cache
+E:\Projects\Template\MVC\Broadcast\Broadcast\obj\Debug\Broadcast.dll
+E:\Projects\Template\MVC\Broadcast\Broadcast\obj\Debug\Broadcast.pdb

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Web.Mvc;
 using System.Web.WebPages.Html;
 
-namespace Broadcast.Shared.Common
+namespace MVC.Shared.Common
 {
     public class UserCommon:Common
     {

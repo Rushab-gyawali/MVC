@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B8AF5804-4D7C-44DD-BFB0-FBF1FFCCEBDF}</ProjectGuid>
+    <ProjectGuid>{9312794B-B1BB-49DE-BBE1-0E33D04EEE5A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Broadcast.Repository</RootNamespace>
-    <AssemblyName>Broadcast.Repository</AssemblyName>
+    <RootNamespace>Broadcast.Business</RootNamespace>
+    <AssemblyName>Broadcast.Business</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -32,7 +32,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -42,17 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\CommonBusiness.cs" />
+    <Compile Include="Business\ICommonBusiness.cs" />
+    <Compile Include="Business\IUserBusiness.cs" />
+    <Compile Include="Business\UserBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository\CommonRepository.cs" />
-    <Compile Include="Repository\ICommonRepository.cs" />
-    <Compile Include="Repository\IUserRepository.cs" />
-    <Compile Include="Repository\RepositoryDao.cs" />
-    <Compile Include="Repository\UserRepository.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Broadcast.Shared\Broadcast.Shared.csproj">
+    <ProjectReference Include="..\Broadcast.Repository\MVC.Repository.csproj">
+      <Project>{b8af5804-4d7c-44dd-bfb0-fbf1ffccebdf}</Project>
+      <Name>MVC.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Broadcast.Shared\MVC.Shared.csproj">
       <Project>{5470eade-908c-49fb-a476-22fbfeb631e0}</Project>
-      <Name>Broadcast.Shared</Name>
+      <Name>MVC.Shared</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Broadcast.Repository.Repository.Common
+namespace MVC.Repository.Repository.Common
 {
     public interface ICommonRepository
     {

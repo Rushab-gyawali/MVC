@@ -1,7 +1,7 @@
-﻿using Broadcast.Business.Business;
-using Broadcast.Business.Business.Common;
-using Broadcast.Repository.Repository;
-using Broadcast.Repository.Repository.Common;
+﻿using MVC.Business.Business;
+using MVC.Business.Business.Common;
+using MVC.Repository.Repository;
+using MVC.Repository.Repository.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +10,7 @@ using System.Web.Mvc;
 using Unity;
 using Unity.AspNet.Mvc;
 
-namespace Broadcast
+namespace MVC
 {
     public static class Boostrapper
     {

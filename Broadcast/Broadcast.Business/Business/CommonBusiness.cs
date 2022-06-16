@@ -1,7 +1,7 @@
-﻿using Broadcast.Repository.Repository.Common;
+﻿using MVC.Repository.Repository.Common;
 using System.Collections.Generic;
 
-namespace Broadcast.Business.Business.Common
+namespace MVC.Business.Business.Common
 {
     public class CommonBusiness : ICommonBusiness
     {

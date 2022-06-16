@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Broadcast.Shared.Common
+namespace MVC.Shared.Common
 {
     public class LoginCommon
     {
